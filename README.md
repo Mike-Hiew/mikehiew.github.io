@@ -4,7 +4,6 @@
 
 - I’m experienced with **ReactJS** Web Apps and **React Native** android/iOS App Development
 - Currently learning more about **NodeJS** and **MongoDB**
-- All of my projects are available at my portfolio website: **[PortfolioWebsite][website]**
 - Fun fact I love to make Websites and code React Apps
 <br>
 
